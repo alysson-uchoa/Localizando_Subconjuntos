@@ -5,7 +5,7 @@ Dado um valor-alvo que é a soma de alguns registros de uma base, descobre quais
 
 - O problema
 Chega uma demanda do tipo:
-"Esses R$ 4.886,85 saíram de algumas vendas da base. Quais?"
+"Esses R$ 5.063,69 saíram de algumas vendas da base. Quais?"
 
 Sem informação sobre quantas linhas, quais linhas, ou qual filtro foi aplicado. Só o total e a base completa.
 
